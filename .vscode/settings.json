@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/fluxbeam-crate/Cargo.toml",
+        "./programs/fluxbeam-crate/Cargo.toml",
+        "./programs/fluxbeam-crate/Cargo.toml"
+    ]
+}
